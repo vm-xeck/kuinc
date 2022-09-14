@@ -1,7 +1,0 @@
-#! /bin/bash
-
-kuindir/kuin -i "$@" -s kuindir/sys/ -e cpp
-
-g++ ${1%.kn}.cpp -o ${1%.kn}
-
-rm ${1%.kn}.cpp
