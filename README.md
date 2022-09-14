@@ -11,7 +11,7 @@ Shell script to compile Kuin code easily
    $ cd kuinc
    $ make BIND=bin_dir KUIND=kuin_dir
    ```
-4. Now you can compile your Kuin code. example:
+4. Now you can compile your Kuin code with kuinc. example:
    ```bash
    $ kuinc hoge.kn -o hoge
    ```
