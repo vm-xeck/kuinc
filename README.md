@@ -1,6 +1,9 @@
 # kuinc
 Shell script to help you compile Kuin code.
 
+> **Warning**
+> This repo is for Linux.
+
 ## How to use
 1. Download [Kuin](https://kuina.ch/kuin/source_code).
 2. Decide which directory you want to install kuinc in.
